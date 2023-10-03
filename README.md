@@ -1,2 +1,2 @@
 # .vimrc
-Private .bashrc source with many helpfull features customized.
+Private .bashrc source code with plenty of helpfull features customized.
